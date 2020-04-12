@@ -13,6 +13,7 @@
 
   <modules>
     <module>custom-component-annotation</module>
+    <module>amqp</module>
   </modules>
 
   <properties>
